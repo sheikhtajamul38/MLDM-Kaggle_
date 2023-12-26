@@ -1,4 +1,4 @@
-# README: Sleep State Detection Competition
+# Sleep State Detection Competition
 
 ## Overview
 
@@ -23,18 +23,3 @@ Understanding sleep is crucial for overall health, impacting everything from dev
 3. **DeBERTa (Decoding-enhanced BERT with Disentangled Attention):** An enhanced BERT model using disentangled attention and a two-stage training process to improve language understanding.
    - **Accuracy:** 72%
 
-## Impact
-
-Successful outcomes from this competition will enhance the ability to conduct large-scale, reliable sleep studies. This can lead to a better understanding of sleep patterns and disturbances, particularly in children, and inform the development of targeted interventions and treatment strategies.
-
-## Host Organization
-
-The Child Mind Institute (CMI) is at the forefront of this effort, working towards better mental health and learning disorder treatments for children and families. The SNF Global Center for Child and Adolescent Mental Health, established at CMI, focuses on accelerating global collaboration in under-researched areas of children’s mental health.
-
-## Acknowledgements
-
-We would like to acknowledge the Stavros Niarchos Foundation (SNF) for their foundational grant and ongoing support, enabling us to pursue this significant research.
-
----
-
-Good luck to all participants! Your contributions are invaluable in advancing our understanding of sleep and its impact on mental health and development.
